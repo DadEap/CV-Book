@@ -4,7 +4,5 @@ Definition for this term
 
 ## Calibration
 
-With it's definition, this can contain bold text
-
-and all other kinds of inline markup ...
+Camera calibration is the process to determine the intrinsic parameters \(such as the focal, and the principal point\) of a camera
 
