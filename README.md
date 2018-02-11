@@ -2,20 +2,13 @@ This file serves as an introduction to your Knowledge Base, it is displayed on t
 
 
 
-```
 ## Term
-```
 
-```
-
-Definition for this term
+First definition
 
 
-## Another term
 
-With it's definition, this can contain bold text
-and all other kinds of inline markup ...
-```
+
 
 
 
