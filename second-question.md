@@ -1,6 +1,6 @@
 This is the answer to "How can I do X?".
 
-{{ "TLW" | cite }}
+{{ "TLW" | cite }} {{"Glasziou2005"|cite}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla sit amet nulla vitae lacinia. Mauris mollis venenatis justo a pellentesque. Nam non lectus elementum, euismod eros at, facilisis lectus. Etiam ac tempus turpis, varius fringilla urna. Vestibulum suscipit tempus orci, at rhoncus mauris condimentum a. Donec in sem tempor, aliquam ipsum nec, blandit lacus. Sed quis venenatis arcu. Donec tortor arcu, molestie sed elit in, ultricies commodo sapien. Praesent condimentum commodo massa et dapibus. Nulla laoreet vehicula maximus. Vivamus mattis, ligula vel vulputate dictum, dui erat fringilla felis, ac tempus lorem nibh eget quam. Nulla rhoncus nulla eu odio ornare, consequat consectetur elit ultricies. Duis cursus ex imperdiet augue cursus fermentum. The Term appears to be anywhere. Also, Calibration is important.
 
