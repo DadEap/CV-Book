@@ -1,4 +1,5 @@
 {
     "plugins": [ "theme-faq" ],
-    "plugins": ["bibtex-cite"]
+    "plugins": ["bibtex-cite"],
+    "plugins": ["mathjax"]
 }
