@@ -12,10 +12,7 @@ Acronyms : LM, DLS (Damped least-squares)
 ---
 
 ## Short summary
-{% math %}
-(ax^2 + bx + c = 0)
-\frac{1}{n}
-{% endmath %}
+
 
 ---
 
